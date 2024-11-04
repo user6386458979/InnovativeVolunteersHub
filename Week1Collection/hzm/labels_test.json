@@ -69,12 +69,12 @@
         "reasoning": "Make(popcorn, corn kernels) and Eat(popcorn, movie theater seats)\nThus, corn kernels → popcorn and movie theater seats → popcorn"
     },
     {
-        "foldername": "Harry Potter(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "Harry Potter(invisible, art, relation, USAEnglish, English)",
         "relation": "Harry Potter",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -92,12 +92,12 @@
         "reasoning": "Use(magic wand, Harry Potter) and Write(JK Rowling, Harry Potter)\nThus, magic wand → Harry Potter and JK Rowling → Harry Potter"
     },
     {
-        "foldername": "Starry Night(invisible, art, mutual elements, Latine culture, English)",
+        "foldername": "Starry Night(invisible, art, mutual elements, Non-English European, English)",
         "relation": "Starry Night",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -115,12 +115,12 @@
         "reasoning": "Sing(DonMcLean, Vincent) and About(Vincent, StarryNight)\nLocated(StarryNight, MoMA)\nThus, DonMcLean → Vincent → StarryNight and MoMA → StarryNight"
     },
     {
-        "foldername": "How Time flies(invisible, culture, metaphor, USAEnglish culture, English)",
+        "foldername": "How Time flies(invisible, culture, metaphor, USAEnglish, English)",
         "relation": "How Time flies",
         "visibility": "invisible",
         "domain": "culture",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -138,12 +138,12 @@
         "reasoning": "Time ∧ Flies → How Time flies"
     },
     {
-        "foldername": "Break a leg(invisible, culture, relation, USAEnglish culture, English)",
+        "foldername": "Break a leg(invisible, culture, relation, USAEnglish, English)",
         "relation": "Break a leg",
         "visibility": "invisible",
         "domain": "culture",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -161,12 +161,12 @@
         "reasoning": "Represents(BrokenLeg, \"Break a leg\" idiom)\nOutcome(SuccessfulPerformance, CurtainCall & Applause)\nAssociates(TheatreCulture, \"Break a leg\",  GoodLuck/SuccessfulPerformance)\nThus, BrokenLeg → \"Break a leg\" →  SuccessfulPerformance → CurtainCall"
     },
     {
-        "foldername": "Spill the tea(invisible, culture, metaphor, USAEnglish culture, English)",
+        "foldername": "Spill the tea(invisible, culture, metaphor, USAEnglish, English)",
         "relation": "Spill the tea",
         "visibility": "invisible",
         "domain": "culture",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -184,12 +184,12 @@
         "reasoning": "Action(OverturnedTeacup, SpillTea)\nEquates(Slang, SpillTea, ShareGossip)\nContains(SpeechBubble, Gossip)\nThus, OverturnedTeacup → SpillTea ↔ ShareGossip ← SpeechBubble"
     },
     {
-        "foldername": "March(invisible, time, metaphor, USAEnglish culture, English)",
+        "foldername": "March(invisible, time, metaphor, USAEnglish, English)",
         "relation": "March",
         "visibility": "invisible",
         "domain": "time",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -230,12 +230,12 @@
         "reasoning": "PointsTo(Clock, 3:14)\nRepresents(PieChart, π)\nThus, 3:14 → π → Pi Day (March 14)"
     },
     {
-        "foldername": "Spring(invisible, music, mutual elements, Latine culture, English)",
+        "foldername": "Spring(invisible, music, mutual elements, Non-English European, English)",
         "relation": "Spring",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -368,12 +368,12 @@
         "reasoning": "ApproximatelyEqual(FineStructureConstant, 1/137) and Reciprocal(1/137, 137)\nAlbum(RickWhite, 137)\nThus, FineStructureConstant → 1/137 → 137 and RickWhite → 137"
     },
     {
-        "foldername": "First Sino-Japanese War(invisible, history, relation, East Asia culture, English)",
+        "foldername": "First Sino-Japanese War(invisible, history, relation, East Asia, English)",
         "relation": "First Sino-Japanese War",
         "visibility": "invisible",
         "domain": "history",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -391,12 +391,12 @@
         "reasoning": "Fought(Dingyuan, FirstSinoJapaneseWar, BeiyangFleet)\nLed(ItoHirobumi, Japan, FirstSinoJapaneseWar)\nThus, Dingyuan → FirstSinoJapaneseWar and ItoHirobumi → FirstSinoJapaneseWar"
     },
     {
-        "foldername": "Sun Yat-sen(invisible, history, relation, East Asia culture, English)",
+        "foldername": "Sun Yat-sen(invisible, history, relation, East Asia, English)",
         "relation": "Sun Yat-sen",
         "visibility": "invisible",
         "domain": "history",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -414,12 +414,12 @@
         "reasoning": "NamedAfter(SunYatSenUniversity, SunYatSen)\nNamedAfter(ZhongshanSuit, SunYatSen)\nThus, SunYatSenUniversity → SunYatSen and ZhongshanSuit → SunYatSen"
     },
     {
-        "foldername": "洛阳纸贵(invisible, history, metaphor, East Asia culture, Chinese)",
+        "foldername": "洛阳纸贵(invisible, history, metaphor, East Asia, Chinese)",
         "relation": "洛阳纸贵",
         "visibility": "invisible",
         "domain": "history",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -437,12 +437,12 @@
         "reasoning": "RicePaper ∧ PileOfGoldCoins → LuoyangPaperIsValuable"
     },
     {
-        "foldername": "I Have a Dream(invisible, history, metaphor, USAEnglish culture, English)",
+        "foldername": "I Have a Dream(invisible, history, metaphor, USAEnglish, English)",
         "relation": "I Have a Dream",
         "visibility": "invisible",
         "domain": "history",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -460,12 +460,12 @@
         "reasoning": "DeliverSpeech(MartinLutherKingJr, IHaveADream) and Location(IHaveADream, LincolnMemorial)\nDream(Dreamer, IHaveADream)\nThus, MartinLutherKingJr → IHaveADream → LincolnMemorial and Dreamer → IHaveADream"
     },
     {
-        "foldername": "Give me liberty or give me death(invisible, history, metaphor, USAEnglish culture, English)",
+        "foldername": "Give me liberty or give me death(invisible, history, metaphor, USAEnglish, English)",
         "relation": "Give me liberty or give me death",
         "visibility": "invisible",
         "domain": "history",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -483,12 +483,12 @@
         "reasoning": "Symbol(BrokenChain, Liberty)\nSymbol(BurningCandle, Sacrifice)\nThus, BrokenChain → Liberty and BurningCandle → Sacrifice"
     },
     {
-        "foldername": "Gold Rush(invisible, history, mutual elements, USAEnglish culture, English)",
+        "foldername": "Gold Rush(invisible, history, mutual elements, USAEnglish, English)",
         "relation": "Gold Rush",
         "visibility": "invisible",
         "domain": "history",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -598,12 +598,12 @@
         "reasoning": "Prodigy(Mozart, Wunderkind)\nProdigy(YoungSheldon, Wunderkind)\nThus, Mozart → Wunderkind and YoungSheldon → Wunderkind"
     },
     {
-        "foldername": "Roaring Twenties(invisible, culture, metaphor, USAEnglish culture, English)",
+        "foldername": "Roaring Twenties(invisible, culture, metaphor, USAEnglish, English)",
         "relation": "Roaring Twenties",
         "visibility": "invisible",
         "domain": "culture",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -621,12 +621,12 @@
         "reasoning": "Symbolizes(RoaringLion, BoldnessAndVitality)\nRepresents(JazzSaxophonist, CulturalCelebration)\nThus, RoaringLion ∧ JazzSaxophonist → RoaringTwenties"
     },
     {
-        "foldername": "The Magic Flute(invisible, music, mutual elements, Latine culture, English)",
+        "foldername": "The Magic Flute(invisible, music, mutual elements, Non-English European, English)",
         "relation": "The Magic Flute",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -644,12 +644,12 @@
         "reasoning": "Play(Tamino, MagicFlute) and Feature(MagicFlute, TheMagicFluteOpera)\nSymbolize(BirdcageWithOpenDoor, Papageno) and Character(Papageno, TheMagicFluteOpera)\nThus, PanFlute → MagicFlute → TheMagicFluteOpera and BirdcageWithOpenDoor → Papageno → TheMagicFluteOpera"
     },
     {
-        "foldername": "Minuet(invisible, music, mutual elements, Latine culture, English)",
+        "foldername": "Minuet(invisible, music, mutual elements, Non-English European, English)",
         "relation": "Minuet",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -667,12 +667,12 @@
         "reasoning": "Popular(Minuet, 18thCentury) and Worn(DancingShoes, 18thCentury)\nMeter(Minuet, 3/4TimeSignature)\nThus, DancingShoes → 18thCentury → Minuet and 3/4TimeSignature → Minuet"
     },
     {
-        "foldername": "St. Matthew Passion(invisible, music, mutual elements, Latine culture, English)",
+        "foldername": "St. Matthew Passion(invisible, music, mutual elements, Non-English European, English)",
         "relation": "St. Matthew Passion",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -690,12 +690,12 @@
         "reasoning": "Depict(StMatthewPassion, PassionOfChrist) and Symbolize(CrownOfThorns, PassionOfChrist)\nCompose(Bach, StMatthewPassion)\nThus, CrownOfThorns → PassionOfChrist → StMatthewPassion and Bach → StMatthewPassion"
     },
     {
-        "foldername": "Water Music(invisible, music, relation, Latine culture, English)",
+        "foldername": "Water Music(invisible, music, relation, Non-English European, English)",
         "relation": "Water Music",
         "visibility": "invisible",
         "domain": "music",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -713,12 +713,12 @@
         "reasoning": "PerformedOn(RiverThames, WaterMusic)\nMovement(AllaHornpipe, WaterMusic)\nThus, RiverThames → WaterMusic and AllaHornpipe → WaterMusic"
     },
     {
-        "foldername": "The Phantom Of the Opera(invisible, music, relation, USAEnglish culture, English)",
+        "foldername": "The Phantom Of the Opera(invisible, music, relation, USAEnglish, English)",
         "relation": "The Phantom Of the Opera",
         "visibility": "invisible",
         "domain": "music",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -736,12 +736,12 @@
         "reasoning": "Wear(Phantom, Mask) and Character(Phantom, ThePhantomOfTheOpera)\nEvent(FallingChandelier, ThePhantomOfTheOpera)\nThus, Mask → Phantom → ThePhantomOfTheOpera and FallingChandelier → ThePhantomOfTheOpera"
     },
     {
-        "foldername": "Queen of the night aria(invisible, music, mutual elements, Latine culture, English)",
+        "foldername": "Queen of the night aria(invisible, music, mutual elements, Non-English European, English)",
         "relation": "Queen of the night aria",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -759,12 +759,12 @@
         "reasoning": "Symbolize(ChessQueen, QueenOfTheNight) and Sing(QueenOfTheNight, QueenOfTheNightAria)\nDescribe(HellFlames, QueenOfTheNightAriaLyrics) and PartOf(QueenOfTheNightAriaLyrics, QueenOfTheNightAria)\nThus, ChessQueen → QueenOfTheNight → QueenOfTheNightAria and HellFlames → QueenOfTheNightAriaLyrics → QueenOfTheNightAria"
     },
     {
-        "foldername": "Acme Corporation(invisible, cartoon or game, relation, USAEnglish culture, English)",
+        "foldername": "Acme Corporation(invisible, cartoon or game, relation, USAEnglish, English)",
         "relation": "Acme Corporation",
         "visibility": "invisible",
         "domain": "cartoon or game",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -782,12 +782,12 @@
         "reasoning": "Supplies(AcmeCorporation, WileECoyote)\nUses(WileECoyote, Anvil)\nPursues(WileECoyote, RoadRunner)\nThus, Anvil → WileECoyote → AcmeCorporation → WileECoyote → RoadRunner and RoadRunner → WileECoyote → AcmeCorporation → WileECoyote → Anvil"
     },
     {
-        "foldername": "My Little Pony(invisible, cartoon or game, relation, USAEnglish culture, English)",
+        "foldername": "My Little Pony(invisible, cartoon or game, relation, USAEnglish, English)",
         "relation": "My Little Pony",
         "visibility": "invisible",
         "domain": "cartoon or game",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -805,12 +805,12 @@
         "reasoning": "Features(MyLittlePony, Pony)\nExampleOf(ShetlandPony, Pony)\nAssociatedWith(MyLittlePony, Rainbow)\nThus, ShetlandPony → Pony → MyLittlePony → Rainbow and Rainbow → MyLittlePony → Pony → ShetlandPony"
     },
     {
-        "foldername": "Peppa Pig(invisible, cartoon or game, mutual elements, USAEnglish culture, English)",
+        "foldername": "Peppa Pig(invisible, cartoon or game, mutual elements, USAEnglish, English)",
         "relation": "Peppa Pig",
         "visibility": "invisible",
         "domain": "cartoon or game",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -828,12 +828,12 @@
         "reasoning": "Enjoy(PeppaPig, MuddyPuddles) and Character(PeppaPig, PeppaPigShow)\nWear(PeppaPig, RedDress) and Character(PeppaPig, PeppaPigShow)\nThus, MuddyPuddles → PeppaPig → PeppaPigShow and RedDress → PeppaPig → PeppaPigShow"
     },
     {
-        "foldername": "Rick and Morty's portal gun(invisible, cartoon or game, relation, USAEnglish culture, English)",
+        "foldername": "Rick and Morty's portal gun(invisible, cartoon or game, relation, USAEnglish, English)",
         "relation": "Rick and Morty's portal gun",
         "visibility": "invisible",
         "domain": "cartoon or game",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -851,12 +851,12 @@
         "reasoning": "Creates(PortalGun, GreenSwirlingPortal)\nUses(Rick, PortalGun)\nUses(Rick, Plumbus)\nThus, GreenSwirlingPortal → PortalGun → Rick → Plumbus and Plumbus → Rick → PortalGun → GreenSwirlingPortal"
     },
     {
-        "foldername": "Yahtzee(invisible, cartoon or game, relation, USAEnglish culture, English)",
+        "foldername": "Yahtzee(invisible, cartoon or game, relation, USAEnglish, English)",
         "relation": "Yahtzee",
         "visibility": "invisible",
         "domain": "cartoon or game",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -920,12 +920,12 @@
         "reasoning": "Represent(ClosedFist, Rock) and PartOf(Rock, RockPaperScissors)\nDepict(ScissorsCuttingPaper, ScissorsBeatsPaper) and Rule(ScissorsBeatsPaper, RockPaperScissors)\nThus, ClosedFist → Rock → RockPaperScissors and ScissorsCuttingPaper → ScissorsBeatsPaper → RockPaperScissors"
     },
     {
-        "foldername": "The Birth of Venus(invisible, art, relation, Latine culture, English)",
+        "foldername": "The Birth of Venus(invisible, art, relation, Non-English European, English)",
         "relation": "The Birth of Venus",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -943,12 +943,12 @@
         "reasoning": "Depict(Botticelli, TheBirthOfVenus) and Feature(TheBirthOfVenus, VenusEmergingFromScallopShell)\nThus, ScallopShell → VenusEmergingFromScallopShell → TheBirthOfVenus and Botticelli → TheBirthOfVenus"
     },
     {
-        "foldername": "The Night Watch(invisible, art, relation, Latine culture, English)",
+        "foldername": "The Night Watch(invisible, art, relation, Non-English European, English)",
         "relation": "The Night Watch",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -966,12 +966,12 @@
         "reasoning": "PaintedBy(Rembrandt, TheNightWatch)\nIncorporate(TheNightWatch, EmblemOfArquebusiers) and Represent(DeadChicken, EmblemOfArquebusiers)\nThus, DeadChicken → EmblemOfArquebusiers → TheNightWatch → Rembrandt"
     },
     {
-        "foldername": "The Last Supper(invisible, art, mutual elements, Latine culture, English)",
+        "foldername": "The Last Supper(invisible, art, mutual elements, Non-English European, English)",
         "relation": "The Last Supper",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -989,12 +989,12 @@
         "reasoning": "Depict(TheLastSupper, LastMealOfJesus) and Feature(LastMealOfJesus, BreadAndWine)\nCount(TheLastSupper, 12Apostles)\nThus, BreadAndWine → LastMealOfJesus → TheLastSupper and 12 → 12Apostles → TheLastSupper"
     },
     {
-        "foldername": "Sistine Chapel ceiling(invisible, art, relation, Latine culture, English)",
+        "foldername": "Sistine Chapel ceiling(invisible, art, relation, Non-English European, English)",
         "relation": "Sistine Chapel ceiling",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1012,12 +1012,12 @@
         "reasoning": "PaintedBy(Michelangelo, SistineChapelCeiling)\nRelatedTo(SistineChapelCeiling, ceiling)\nThus, Michelangelo → SistineChapelCeiling → ceiling"
     },
     {
-        "foldername": "Socrates(invisible, people, mutual elements, Latine culture, English)",
+        "foldername": "Socrates(invisible, people, mutual elements, Non-English European, English)",
         "relation": "Socrates",
         "visibility": "invisible",
         "domain": "people",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1035,12 +1035,12 @@
         "reasoning": "AssociatedWith(Socrates, AllegoryOfTheCave) and RepresentedBy(AllegoryOfTheCave, ShadowPuppetsOnCaveWall)\nDeveloped(Socrates, SocraticMethod) and ComparedTo(SocraticMethod, Midwifery) and RepresentedBy(WomanAssistingChildbirth, Midwifery)\nThus, ShadowPuppetsOnCaveWall → AllegoryOfTheCave → Socrates → SocraticMethod → Midwifery → WomanAssistingChildbirth and WomanAssistingChildbirth → Midwifery → SocraticMethod → Socrates → AllegoryOfTheCave → ShadowPuppetsOnCaveWall"
     },
     {
-        "foldername": "亡羊补牢(invisible, culture, metaphor, East Asia culture, Chinese)",
+        "foldername": "亡羊补牢(invisible, culture, metaphor, East Asia, Chinese)",
         "relation": "亡羊补牢",
         "visibility": "invisible",
         "domain": "culture",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -1058,12 +1058,12 @@
         "reasoning": "Contains(Sheep, WangYangBuLao) and Contains(Repairman, WangYangBulao)\nThus, Sheep ∧ Repairman → WangYangBuLao"
     },
     {
-        "foldername": "Girl with a Pearl Earring(invisible, art, relation, Latine culture, English)",
+        "foldername": "Girl with a Pearl Earring(invisible, art, relation, Non-English European, English)",
         "relation": "Girl with a Pearl Earring",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1081,12 +1081,12 @@
         "reasoning": "PaintedBy(Vermeer, GirlWithAPearlEarring)\nFeature(GirlWithAPearlEarring, PearlEarring)\nThus, Vermeer → GirlWithAPearlEarring → PearlEarring"
     },
     {
-        "foldername": "Pythagoras(invisible, people, relation, Latine culture, English)",
+        "foldername": "Pythagoras(invisible, people, relation, Non-English European, English)",
         "relation": "Pythagoras",
         "visibility": "invisible",
         "domain": "people",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1104,12 +1104,12 @@
         "reasoning": "Discover(Pythagoras, PythagoreanTheorem)\nListenTo(Pythagoras, BlacksmithsHammers)\nThus, PythagoreanTheorem → Pythagoras → BlacksmithsHammers"
     },
     {
-        "foldername": "the creation of the lyre is attributed to Hermes in Greek mythology(invisible, music, relation, Latine culture, English)",
+        "foldername": "the creation of the lyre is attributed to Hermes in Greek mythology(invisible, music, relation, Non-English European, English)",
         "relation": "the creation of the lyre is attributed to Hermes in Greek mythology",
         "visibility": "invisible",
         "domain": "music",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1219,12 +1219,12 @@
         "reasoning": "Father(JohannStraussI, JohannStraussII) and SameOccupation(JohannStraussI, JohannStraussII)\nFather(AlexandreDumasPere, AlexandreDumasFils) and SameOccupation(AlexandreDumasPere, AlexandreDumasFils)\nThus, JohannStraussII → SameOccupationWithFather and AlexandreDumasFils → SameOccupationWithFather"
     },
     {
-        "foldername": "The Moon and Sixpence(visible, art, mutual elements, USAEnglish culture, English)",
+        "foldername": "The Moon and Sixpence(visible, art, mutual elements, USAEnglish, English)",
         "relation": "The Moon and Sixpence",
         "visibility": "visible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1242,12 +1242,12 @@
         "reasoning": "Related(Moon, TheMoonAndSixpence)\nRelated(Sixpence, TheMoonAndSixpence)\nThus, Moon → TheMoonAndSixpence and Sixpence → TheMoonAndSixpence"
     },
     {
-        "foldername": "木石前盟(visible, art, metaphor, East Asia culture, Chinese)",
+        "foldername": "木石前盟(visible, art, metaphor, East Asia, Chinese)",
         "relation": "木石前盟",
         "visibility": "visible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -1265,12 +1265,12 @@
         "reasoning": "Related(Wood, 木石前盟)\nRelated(Jade, 木石前盟)\nThus, Wood ∧ Jade → 木石前盟"
     },
     {
-        "foldername": "春望(visible, art, mutual elements, East Asia culture, Chinese)",
+        "foldername": "春望(visible, art, mutual elements, East Asia, Chinese)",
         "relation": "春望",
         "visibility": "visible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -1288,12 +1288,12 @@
         "reasoning": "Describe(BeaconFires, Wartime)\nMention(SpringProspect, HomeLetter)\nThus, BeaconFires → SpringProspect and HomeLetter → SpringProspect"
     },
     {
-        "foldername": "Women in Revenge Works(visible, art, mutual elements, Latine culture, English)",
+        "foldername": "Women in Revenge Works(visible, art, mutual elements, Non-English European, English)",
         "relation": "Women in Revenge Works",
         "visibility": "visible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -1357,12 +1357,12 @@
         "reasoning": "Name(EmmaMackey, Emma) and Name(EmmaMckeon, Emma)\nThus, EmmaMackey → Emma and EmmaMckeon → Emma"
     },
     {
-        "foldername": "The Million Pound Bank Note(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "The Million Pound Bank Note(invisible, art, relation, USAEnglish, English)",
         "relation": "The Million Pound Bank Note",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1403,12 +1403,12 @@
         "reasoning": "Theme(FangSiChiFirstLoveParadise, Pedophilia)\nWriteBy(VladimirNabokov, LoliTa) and Theme(LoliTa, Pedophilia)\nThus, FangSiChiFirstLoveParadise → Pedophilia and VladimirNabokov → LoliTa → Pedophilia"
     },
     {
-        "foldername": "The Bluest Eye(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "The Bluest Eye(invisible, art, relation, USAEnglish, English)",
         "relation": "The Bluest Eye",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1426,12 +1426,12 @@
         "reasoning": "WriteBy(ToniMorrison, TheBluestEye)\nFeature(TheBluestEye, BlueEye)\nThus, ToniMorrison → TheBluestEye → BlueEye"
     },
     {
-        "foldername": "Richard Wright's novel(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "Richard Wright's novel(invisible, art, relation, USAEnglish, English)",
         "relation": "Richard Wright's novel",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1449,12 +1449,12 @@
         "reasoning": "WriteBy(RichardWright, BlackBoy)\nRelated(ABlackBoy, BlackBoy)\nThus, RichardWright → BlackBoy → ABlackBoy"
     },
     {
-        "foldername": "Adeline Virginia Woolf(invisible, art, mutual elements, USAEnglish culture, English)",
+        "foldername": "Adeline Virginia Woolf(invisible, art, mutual elements, USAEnglish, English)",
         "relation": "Adeline Virginia Woolf",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1472,12 +1472,12 @@
         "reasoning": "WriteBy(VirginiaWoolf, ToTheLighthouse) and Feature(ToTheLighthouse, Lighthouse)\nWriteBy(VirginiaWoolf, TheMarkOnTheWall) and Feature(TheMarkOnTheWall, SnailOnTheWall)\nThus, VirginiaWoolf → ToTheLighthouse → Lighthouse and VirginiaWoolf → TheMarkOnTheWall → SnailOnTheWall"
     },
     {
-        "foldername": "Edgar Allan Poe(invisible, art, mutual elements, USAEnglish culture, English)",
+        "foldername": "Edgar Allan Poe(invisible, art, mutual elements, USAEnglish, English)",
         "relation": "Edgar Allan Poe",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1495,12 +1495,12 @@
         "reasoning": "Related(Raven, TheRaven) and WriteBy(EdgarAllanPoe, TheRaven)\nRelated(GoldBug, TheGoldBug) and WriteBy(EdgarAllanPoe, TheGoldBug)\nThus, Raven → TheRaven → EdgarAllanPoe and GoldBug → TheGoldBug → EdgarAllanPoe"
     },
     {
-        "foldername": "Jorge Luis Borges(invisible, people, mutual elements, USAEnglish culture, English)",
+        "foldername": "Jorge Luis Borges(invisible, people, mutual elements, USAEnglish, English)",
         "relation": "Jorge Luis Borges",
         "visibility": "invisible",
         "domain": "people",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1518,12 +1518,12 @@
         "reasoning": "Treasure(library, Borges)\nBecome(Borges, Blind)\nThus, Library → Borges and Blind → Borges"
     },
     {
-        "foldername": "The Library of Babel(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "The Library of Babel(invisible, art, relation, USAEnglish, English)",
         "relation": "The Library of Babel",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1541,12 +1541,12 @@
         "reasoning": "WriteBy(JorgeLuisBorges, TheLibraryOfBabel)\nRelated(Library, TheLibraryOfBabel) and Related(Babel, TheLibraryOfBabel)\nThus, JorgeLuisBorges → TheLibraryOfBabel → Library and Babel"
     },
     {
-        "foldername": "The Aleph(invisible, art, relation, USAEnglish culture, English)",
+        "foldername": "The Aleph(invisible, art, relation, USAEnglish, English)",
         "relation": "The Aleph",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1564,12 +1564,12 @@
         "reasoning": "WriteBy(JorgeLuisBorges, TheAleph)\nFeature(TheAleph, Aleph)\nThus, JorgeLuisBorges → TheAleph → Aleph"
     },
     {
-        "foldername": "The Book of Sand(invisible, art, metaphor, USAEnglish culture, English)",
+        "foldername": "The Book of Sand(invisible, art, metaphor, USAEnglish, English)",
         "relation": "The Book of Sand",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1587,12 +1587,12 @@
         "reasoning": "Feature(TheBookOfSand, Sand) and Feature(TheBookOfSand, Book)\nThus, Sand ∧ Book → TheBookOfSand"
     },
     {
-        "foldername": "the origin of the Guinness World Records(invisible, history, relation, USAEnglish culture, English)",
+        "foldername": "the origin of the Guinness World Records(invisible, history, relation, USAEnglish, English)",
         "relation": "the origin of the Guinness World Records",
         "visibility": "invisible",
         "domain": "history",
         "type": "relation",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1610,12 +1610,12 @@
         "reasoning": "Create(GuinnessWorldRecords, SirHughBeaver)\nIdeaCameFrom(GuinnessWorldRecords, GoldenPlover)\nThus, SirHughBeaver → GuinnessWorldRecords → GoldenPlover"
     },
     {
-        "foldername": "Guinness brand(visible, history, mutual elements, USAEnglish culture, English)",
+        "foldername": "Guinness brand(visible, history, mutual elements, USAEnglish, English)",
         "relation": "Guinness brand",
         "visibility": "visible",
         "domain": "history",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1633,12 +1633,12 @@
         "reasoning": "Brand(GuinnessBreweries, Guinness) and Brand(GuinnessBookOfRecords, Guinness)\nThus, GuinnessBreweries → Guinness and GuinnessBookOfRecords → Guinness"
     },
     {
-        "foldername": "novels about women with extramarital affair(visible, art, mutual elements, USAEnglish culture, English)",
+        "foldername": "novels about women with extramarital affair(visible, art, mutual elements, USAEnglish, English)",
         "relation": "novels about women with extramarital affair",
         "visibility": "visible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -1656,12 +1656,12 @@
         "reasoning": "Novel(MadameBovary, WomanWithExtramaritalAffair) and Novel(AnnaKarenina, WomanWithExtramaritalAffair)\nThus, MadameBovary → WomanWithExtramaritalAffair and AnnaKarenina → WomanWithExtramaritalAffair"
     },
     {
-        "foldername": "Jay Chou(invisible, music, mutual elements, East Asia culture, English)",
+        "foldername": "Jay Chou(invisible, music, mutual elements, East Asia, English)",
         "relation": "Jay Chou",
         "visibility": "invisible",
         "domain": "music",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -1679,12 +1679,12 @@
         "reasoning": "WriteBy(JayChou, CommonJasmineOrange)\nMarriedTo(JayChou, HannahQuinlivan)\nThus, CommonJasmineOrange → JayChou and HannahQuinlivan → JayChou"
     },
     {
-        "foldername": "三毛(invisible, art, relation, East Asia culture, Chinese)",
+        "foldername": "三毛(invisible, art, relation, East Asia, Chinese)",
         "relation": "三毛",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -1702,12 +1702,12 @@
         "reasoning": "WriteBy(三毛, TheStoriesOfSahara) and Related(TheStoriesOfSahara, SaharaMap)\nSameName(三毛, Sanmao)\nThus, SaharaMap → TheStoriesOfSahara → 三毛 → Sanmao"
     },
     {
-        "foldername": "Lao She's works(invisible, art, mutual elements, East Asia culture, English)",
+        "foldername": "Lao She's works(invisible, art, mutual elements, East Asia, English)",
         "relation": "Lao She's works",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -2001,12 +2001,12 @@
         "reasoning": "Related(Hockey, IceHockey)\nPlayedOn(IceHockey, Ice)\nThus, Hockey → IceHockey → Ice"
     },
     {
-        "foldername": "آنکھوں کا تارا(invisible, art, relation, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "آنکھوں کا تارا(invisible, art, relation, South Asia and South-East Asia, Urdu)",
         "relation": "آنکھوں کا تارا",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2024,12 +2024,12 @@
         "reasoning": "Language(Urdu, آنکھوں کا تارا)\nMetaphor(آنکھوں کا تارا, StarsInEyes)\nThus, Urdu → آنکھوں کا تارا → StarsInEyes"
     },
     {
-        "foldername": "بندر کیا جانے ادرک کا سواد(invisible, art, metaphor, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "بندر کیا جانے ادرک کا سواد(invisible, art, metaphor, South Asia and South-East Asia, Urdu)",
         "relation": "بندر کیا جانے ادرک کا سواد",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2047,12 +2047,12 @@
         "reasoning": "ginger ∧ monkey → بندر کیا جانے ادرک کا سواد"
     },
     {
-        "foldername": "کھودا پہاڑ نکلی چوہیا(invisible, art, metaphor, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "کھودا پہاڑ نکلی چوہیا(invisible, art, metaphor, South Asia and South-East Asia, Urdu)",
         "relation": "کھودا پہاڑ نکلی چوہیا",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2070,12 +2070,12 @@
         "reasoning": "mountain ∧ mouse → کھودا پہاڑ نکلی چوہیا"
     },
     {
-        "foldername": "دودھ کا جلا چھاچھ بھی پھونک پھونک کر پیتا ہے(invisible, art, metaphor, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "دودھ کا جلا چھاچھ بھی پھونک پھونک کر پیتا ہے(invisible, art, metaphor, South Asia and South-East Asia, Urdu)",
         "relation": "دودھ کا جلا چھاچھ بھی پھونک پھونک کر پیتا ہے",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2093,12 +2093,12 @@
         "reasoning": "blowing ∧ burning milk → دودھ کا جلا چھاچھ بھی پھونک پھونک کر پیتا ہے"
     },
     {
-        "foldername": "دال میں کچھ کالا ہے(invisible, art, relation, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "دال میں کچھ کالا ہے(invisible, art, relation, South Asia and South-East Asia, Urdu)",
         "relation": "دال میں کچھ کالا ہے",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2116,12 +2116,12 @@
         "reasoning": "lentils → دال میں کچھ کالا ہے"
     },
     {
-        "foldername": "The same prounciation between vin and vingt(invisible, sense, relation, Latine culture, French)",
+        "foldername": "The same prounciation between vin and vingt(invisible, sense, relation, Non-English European, French)",
         "relation": "The same prounciation between vin and vingt",
         "visibility": "invisible",
         "domain": "sense",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2139,12 +2139,12 @@
         "reasoning": "Pronunciation(Vin, Vingt)\nThus, Vin → Vingt"
     },
     {
-        "foldername": "The same prounciation between La rousse and Larousse(invisible, sense, relation, Latine culture, French)",
+        "foldername": "The same prounciation between La rousse and Larousse(invisible, sense, relation, Non-English European, French)",
         "relation": "The same prounciation between La rousse and Larousse",
         "visibility": "invisible",
         "domain": "sense",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2162,12 +2162,12 @@
         "reasoning": "Pronunciation(LaRousse, Larousse)\nThus, LaRousse → Larousse"
     },
     {
-        "foldername": "The same prounciation between Porsche and porche(invisible, sense, relation, Latine culture, French)",
+        "foldername": "The same prounciation between Porsche and porche(invisible, sense, relation, Non-English European, French)",
         "relation": "The same prounciation between Porsche and porche",
         "visibility": "invisible",
         "domain": "sense",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2185,12 +2185,12 @@
         "reasoning": "Pronunciation(Porsche, Porche)\nThus, Porsche → Porche"
     },
     {
-        "foldername": "一朝被蛇咬，十年怕井绳(invisible, art, metaphor, East Asia culture, Chinese)",
+        "foldername": "一朝被蛇咬，十年怕井绳(invisible, art, metaphor, East Asia, Chinese)",
         "relation": "一朝被蛇咬，十年怕井绳",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2208,12 +2208,12 @@
         "reasoning": "snake ∧ well rope → 一朝被蛇咬，十年怕井绳"
     },
     {
-        "foldername": "一箭双雕(invisible, art, metaphor, East Asia culture, Chinese)",
+        "foldername": "一箭双雕(invisible, art, metaphor, East Asia, Chinese)",
         "relation": "一箭双雕",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2231,12 +2231,12 @@
         "reasoning": "arrow ∧ two birds → 一箭双雕"
     },
     {
-        "foldername": "avec des si on mettrait Paris en bouteille(invisible, art, metaphor, Latine culture, French)",
+        "foldername": "avec des si on mettrait Paris en bouteille(invisible, art, metaphor, Non-English European, French)",
         "relation": "avec des si on mettrait Paris en bouteille",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2254,12 +2254,12 @@
         "reasoning": "Paris ∧ Bottle → avec des si on mettrait Paris en bouteille"
     },
     {
-        "foldername": "si les chiens avaient des scies, il n’y aurait plus de poteaux(invisible, art, metaphor, Latine culture, French)",
+        "foldername": "si les chiens avaient des scies, il n’y aurait plus de poteaux(invisible, art, metaphor, Non-English European, French)",
         "relation": "si les chiens avaient des scies, il n’y aurait plus de poteaux",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2277,12 +2277,12 @@
         "reasoning": "DogWithSaw ∧ Post → si les chiens avaient des scies, il n’y aurait plus de poteaux"
     },
     {
-        "foldername": "Donner sa langue au chat(invisible, art, metaphor, Latine culture, French)",
+        "foldername": "Donner sa langue au chat(invisible, art, metaphor, Non-English European, French)",
         "relation": "Donner sa langue au chat",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2300,12 +2300,12 @@
         "reasoning": "HumanTongue ∧ Cat → Donner sa langue au chat"
     },
     {
-        "foldername": "Couper les cheveux en quatre(invisible, art, metaphor, Latine culture, French)",
+        "foldername": "Couper les cheveux en quatre(invisible, art, metaphor, Non-English European, French)",
         "relation": "Couper les cheveux en quatre",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2323,12 +2323,12 @@
         "reasoning": "CutHair ∧ PieInFour → Couper les cheveux en quatre"
     },
     {
-        "foldername": "Vouloir le beurre et l'argent du beurre(invisible, art, metaphor, Latine culture, French)",
+        "foldername": "Vouloir le beurre et l'argent du beurre(invisible, art, metaphor, Non-English European, French)",
         "relation": "Vouloir le beurre et l'argent du beurre",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2346,12 +2346,12 @@
         "reasoning": "Butter ∧ Money → Vouloir le beurre et l'argent du beurre"
     },
     {
-        "foldername": "Tomber dans les pommes(visible, art, relation, Latine culture, French)",
+        "foldername": "Tomber dans les pommes(visible, art, relation, Non-English European, French)",
         "relation": "Tomber dans les pommes",
         "visibility": "visible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2369,12 +2369,12 @@
         "reasoning": "Tomber dans les pommes → Fainting "
     },
     {
-        "foldername": "Avoir un poil dans la main(visible, art, relation, Latine culture, French)",
+        "foldername": "Avoir un poil dans la main(visible, art, relation, Non-English European, French)",
         "relation": "Avoir un poil dans la main",
         "visibility": "visible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -2392,12 +2392,12 @@
         "reasoning": "Tomber dans les pommes → Fainting "
     },
     {
-        "foldername": "Buttered cat paradox(visible, STEM, metaphor, Latine culture, English)",
+        "foldername": "Buttered cat paradox(visible, STEM, metaphor, Non-English European, English)",
         "relation": "Buttered cat paradox",
         "visibility": "visible",
         "domain": "STEM",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -2484,12 +2484,12 @@
         "reasoning": "InfiniteHotel ∧ MobiusStrip → Infinite"
     },
     {
-        "foldername": "اُونٹ کے مُنہ میں زیرہ (invisible, art, metaphor, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "اُونٹ کے مُنہ میں زیرہ (invisible, art, metaphor, South Asia and South-East Asia, Urdu)",
         "relation": "اُونٹ کے مُنہ میں زیرہ ",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2507,12 +2507,12 @@
         "reasoning": "CuminSeed ∧ Camel → اُونٹ کے مُنہ میں زیرہ"
     },
     {
-        "foldername": "ناک کاٹنا(invisible, art, metaphor, South Asia and South-East Asia culture, Urdu)",
+        "foldername": "ناک کاٹنا(invisible, art, metaphor, South Asia and South-East Asia, Urdu)",
         "relation": "ناک کاٹنا",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "South Asia and South-East Asia culture",
+        "culture": "South Asia and South-East Asia",
         "language": "Urdu",
         "images": [
             {
@@ -2530,12 +2530,12 @@
         "reasoning": "CutNose → ناک کاٹنا → disgrace"
     },
     {
-        "foldername": "Zwei Fliegen mit einer Klappe schlagen(invisible, art, metaphor, Latine culture, German)",
+        "foldername": "Zwei Fliegen mit einer Klappe schlagen(invisible, art, metaphor, Non-English European, German)",
         "relation": "Zwei Fliegen mit einer Klappe schlagen",
         "visibility": "invisible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "German",
         "images": [
             {
@@ -2646,12 +2646,12 @@
         "reasoning": "SimilarShape(Corset, Hourglass)\nMeasure(Time, Stopwatch) and Measure(Time, Hourglass)\nThus, Corset → Hourglass and Stopwatch → Hourglass"
     },
     {
-        "foldername": "Symposium(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Symposium(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Symposium",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -2715,12 +2715,12 @@
         "reasoning": "Has(Pandora, Box)\nInvolvedIn(Schrödinger'sCat, Box)\nThus, Pandora → Box and Schrödinger'sCat → Box"
     },
     {
-        "foldername": "superman(invisible, art, relation, Latine culture, English)",
+        "foldername": "superman(invisible, art, relation, Non-English European, English)",
         "relation": "superman",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -2784,12 +2784,12 @@
         "reasoning": "SameName(PandoraBracelet, Pandora)\nThus, PandoraBracelet → Pandora"
     },
     {
-        "foldername": "Name Apollo(invisible, myth, mutual elements, USAEnglish culture, English)",
+        "foldername": "Name Apollo(invisible, myth, mutual elements, USAEnglish, English)",
         "relation": "Name Apollo",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -2807,12 +2807,12 @@
         "reasoning": "SameName(Apollo11, Apollo)\nThus, Apollo → Apollo11"
     },
     {
-        "foldername": "moon(invisible, myth, mutual elements, East Asia culture, English)",
+        "foldername": "moon(invisible, myth, mutual elements, East Asia, English)",
         "relation": "moon",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -2830,12 +2830,12 @@
         "reasoning": "LivesOn(Moon, Rabbit)\nMission(Chang'e-6, Moon)\nThus, Rabbit → Moon and Chang'e-6 → Moon"
     },
     {
-        "foldername": "玉兔(invisible, myth, metaphor, East Asia culture, Chinese)",
+        "foldername": "玉兔(invisible, myth, metaphor, East Asia, Chinese)",
         "relation": "玉兔",
         "visibility": "invisible",
         "domain": "myth",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2853,12 +2853,12 @@
         "reasoning": "Rabbit ∧ Jade → 玉兔"
     },
     {
-        "foldername": "玉兔捣药(invisible, myth, relation, East Asia culture, Chinese)",
+        "foldername": "玉兔捣药(invisible, myth, relation, East Asia, Chinese)",
         "relation": "玉兔捣药",
         "visibility": "invisible",
         "domain": "myth",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2876,12 +2876,12 @@
         "reasoning": "Pound(Medicine, Rabbit)\nLivingOn(Moon, Rabbit)\nThus, Medicine → Rabbit → Moon"
     },
     {
-        "foldername": "toad living on the moon(invisible, myth, relation, East Asia culture, Chinese)",
+        "foldername": "toad living on the moon(invisible, myth, relation, East Asia, Chinese)",
         "relation": "toad living on the moon",
         "visibility": "invisible",
         "domain": "myth",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2899,12 +2899,12 @@
         "reasoning": "LivesOn(Moon, Toad)\nThus, Toad → Moon"
     },
     {
-        "foldername": "Legend of the White Snake(invisible, myth, relation, East Asia culture, Chinese)",
+        "foldername": "Legend of the White Snake(invisible, myth, relation, East Asia, Chinese)",
         "relation": "Legend of the White Snake",
         "visibility": "invisible",
         "domain": "myth",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Chinese",
         "images": [
             {
@@ -2945,12 +2945,12 @@
         "reasoning": "Number(Immortals, 8)\nNumber(Femmes, 8)\nThus, Immortals → 8 and Femmes → 8"
     },
     {
-        "foldername": "Stories about Prison Break(invisible, art, mutual elements, USAEnglish culture, English)",
+        "foldername": "Stories about Prison Break(invisible, art, mutual elements, USAEnglish, English)",
         "relation": "Stories about Prison Break",
         "visibility": "invisible",
         "domain": "art",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -2968,12 +2968,12 @@
         "reasoning": "Related(MonteCristo, TheCountOfMonteCristo) and Related(ShawshankRedemption, PrisonBreak)\nRelated(ShawshankRedemption, PrisonBreak)\nThus, MonteCristo → TheCountOfMonteCristo → PrisonBreak and ShawshankRedemption → PrisonBreak"
     },
     {
-        "foldername": "similar shape '$'(invisible, myth, mutual elements, USAEnglish culture, English)",
+        "foldername": "similar shape '$'(invisible, myth, mutual elements, USAEnglish, English)",
         "relation": "similar shape '$'",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "USA/English culture",
+        "culture": "USA/English",
         "language": "English",
         "images": [
             {
@@ -3037,12 +3037,12 @@
         "reasoning": "CommonName(GelsemiumElegans, HeartbreakGrass)\nName(HeartbreakGrass, Heartbreak)\nThus, GelsemiumElegans → HeartbreakGrass → Heartbreak"
     },
     {
-        "foldername": "Fire(invisible, myth, mutual elements, East Asia culture, English)",
+        "foldername": "Fire(invisible, myth, mutual elements, East Asia, English)",
         "relation": "Fire",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -3060,12 +3060,12 @@
         "reasoning": "Stole(Prometheus, Fire)\nNamedAfter(ZhurongPeak, Zhurong) and GodOf(Zhurong, Fire)\nThus, Prometheus → Fire and ZhurongPeak → Zhurong → Fire"
     },
     {
-        "foldername": "God of Fire(invisible, myth, mutual elements, East Asia culture, English)",
+        "foldername": "God of Fire(invisible, myth, mutual elements, East Asia, English)",
         "relation": "God of Fire",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -3106,12 +3106,12 @@
         "reasoning": "Happen(NotreDame, FireIn2019)\nHappen(KyotoAnimation, FireIn2019)\nThus, NotreDame → FireIn2019 and KyotoAnimation → FireIn2019"
     },
     {
-        "foldername": "flood(invisible, myth, mutual elements, East Asia culture, English)",
+        "foldername": "flood(invisible, myth, mutual elements, East Asia, English)",
         "relation": "flood",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -3129,12 +3129,12 @@
         "reasoning": "Related(NoahArk, Flood)\nControlled(YuTheGreat, Flood)\nThus, NoahArk → Flood and YuTheGreat → Flood"
     },
     {
-        "foldername": "Filling the Sea(invisible, myth, mutual elements, East Asia culture, English)",
+        "foldername": "Filling the Sea(invisible, myth, mutual elements, East Asia, English)",
         "relation": "Filling the Sea",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -3152,12 +3152,12 @@
         "reasoning": "Do(Jingwei, FillSea)\nRelated(SeaReclamation, FillSea)\nThus, Jingwei → FillSea → SeaReclamation"
     },
     {
-        "foldername": "9(invisible, number, mutual elements, East Asia culture, English)",
+        "foldername": "9(invisible, number, mutual elements, East Asia, English)",
         "relation": "9",
         "visibility": "invisible",
         "domain": "number",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "English",
         "images": [
             {
@@ -3175,12 +3175,12 @@
         "reasoning": "TailNumber(Kitsune, Nine)\nThus, Kitsune → Nine"
     },
     {
-        "foldername": "Ra(invisible, myth, mutual elements, Arabic-Islamic culture, English)",
+        "foldername": "Ra(invisible, myth, mutual elements, Arabic-Islamic, English)",
         "relation": "Ra",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Arabic-Islamic culture",
+        "culture": "Arabic-Islamic",
         "language": "English",
         "images": [
             {
@@ -3198,12 +3198,12 @@
         "reasoning": "Symbol(Radium, Ra)\nThus, Radium → Ra"
     },
     {
-        "foldername": "Thor(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Thor(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Thor",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3221,12 +3221,12 @@
         "reasoning": "Use(Thor, Hammer)\nName(Thursday, Thor)\n Thus, Hammer → Thor and Thursday → Thor"
     },
     {
-        "foldername": "Norse god Thor(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Norse god Thor(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Norse god Thor",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3244,12 +3244,12 @@
         "reasoning": "HomelandOf(Breidablik, Thor)\nName(Thursday, Thor)\n Thus, Breidablik → Thor and Thursday → Thor"
     },
     {
-        "foldername": "Odin(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Odin(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Odin",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3267,12 +3267,12 @@
         "reasoning": "SonOf(Baldr, Odin)\nName(Wednesday, Odin)\n Thus, Baldr → Odin and Wednesday → Odin"
     },
     {
-        "foldername": "Týr(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Týr(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Týr",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3290,12 +3290,12 @@
         "reasoning": "Sacrifice(Týr, RightHand)\nName(Tuesday, Týr)\n Thus, RightHand → Týr and Tuesday → Týr"
     },
     {
-        "foldername": "Moon(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Moon(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Moon",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3313,12 +3313,12 @@
         "reasoning": "MotherOf(Leto, Artemis) and IdentifiedWith(Artemis, Moon)\nName(Monday, Moon)\n Thus, Leto → Artemis → Moon and Monday → Moon"
     },
     {
-        "foldername": "Frigg(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Frigg(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Frigg",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3336,12 +3336,12 @@
         "reasoning": "WifeOf(Frigg, Odin)\nName(Friday, Frigg)\n Thus, Odin → Frigg and Friday → Frigg"
     },
     {
-        "foldername": "토요일(invisible, culture, mutual elements, East Asia culture, Korean)",
+        "foldername": "토요일(invisible, culture, mutual elements, East Asia, Korean)",
         "relation": "토요일",
         "visibility": "invisible",
         "domain": "culture",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -3359,12 +3359,12 @@
         "reasoning": "Name(Saturday, Soil)\n Thus, Soil → Saturday"
     },
     {
-        "foldername": "Dimanches d'août(invisible, art, relation, Latine culture, French)",
+        "foldername": "Dimanches d'août(invisible, art, relation, Non-English European, French)",
         "relation": "Dimanches d'août",
         "visibility": "invisible",
         "domain": "art",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -3382,12 +3382,12 @@
         "reasoning": "PatrickModianoWrites(RueDesBoutiquesObscures, DimanchesD'août)\nTitle(DimanchesD'août, Sunday)\n Thus, RueDesBoutiquesObscures → DimanchesD'août → Sunday"
     },
     {
-        "foldername": "couch potato(invisible, culture, metaphor, Latine culture, French)",
+        "foldername": "couch potato(invisible, culture, metaphor, Non-English European, French)",
         "relation": "couch potato",
         "visibility": "invisible",
         "domain": "culture",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "French",
         "images": [
             {
@@ -3428,12 +3428,12 @@
         "reasoning": "SimilarShape(Earphone, Peashooter)\nThus, Earphone → Peashooter"
     },
     {
-        "foldername": "famous plot in The Little Prince(visible, art, metaphor, Latine culture, English)",
+        "foldername": "famous plot in The Little Prince(visible, art, metaphor, Non-English European, English)",
         "relation": "famous plot in The Little Prince",
         "visibility": "visible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3451,12 +3451,12 @@
         "reasoning": "Hat ∧ Elephant → The Little Prince"
     },
     {
-        "foldername": "drawing in The Little Prince(visible, art, metaphor, Latine culture, English)",
+        "foldername": "drawing in The Little Prince(visible, art, metaphor, Non-English European, English)",
         "relation": "drawing in The Little Prince",
         "visibility": "visible",
         "domain": "art",
         "type": "metaphor",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3520,12 +3520,12 @@
         "reasoning": "Temperature(Sun, Hot)\nTaste(HotPepper, Hot)\nThus,Sun → Hot and HotPepper → Hot"
     },
     {
-        "foldername": "Jupiter(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Jupiter(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Jupiter",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3543,12 +3543,12 @@
         "reasoning": "SacredAnimal(Jupiter, Eagle)\nName(Thursday, Jupiter)\nThus, Eagle → Jupiter and Thursday → Jupiter"
     },
     {
-        "foldername": "Jupiter's sacred thing(visible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Jupiter's sacred thing(visible, myth, mutual elements, Non-English European, English)",
         "relation": "Jupiter's sacred thing",
         "visibility": "visible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3566,12 +3566,12 @@
         "reasoning": "SacredAnimal(Jupiter, Eagle)\nSacredTree(Jupiter, Oak)\nThus, Eagle → Jupiter and Oak → Jupiter"
     },
     {
-        "foldername": "Leo is opposite to Aquarius(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Leo is opposite to Aquarius(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Leo is opposite to Aquarius",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3589,12 +3589,12 @@
         "reasoning": "Associated(Leo, Lion)\nPeriod(Leo, JulyAugust)\nThus, Lion → Leo and JulyAugust → Leo"
     },
     {
-        "foldername": "Cancer is opposite to Capricorn(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Cancer is opposite to Capricorn(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Cancer is opposite to Capricorn",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3612,12 +3612,12 @@
         "reasoning": "Symbol(Crab, Cancer) and Opposite(Cancer, Capricorn)\nPeriod(Capricorn, DecJan)\nThus, Crab → Cancer → Capricorn → DecJan"
     },
     {
-        "foldername": "Gemini the model(invisible, STEM, mutual elements, Latine culture, English)",
+        "foldername": "Gemini the model(invisible, STEM, mutual elements, Non-English European, English)",
         "relation": "Gemini the model",
         "visibility": "invisible",
         "domain": "STEM",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3635,12 +3635,12 @@
         "reasoning": "CompanyName(Google, Gemini)\nMeaning(Gemini, Twins)\nThus, Google → Gemini and Twins → Gemini"
     },
     {
-        "foldername": "Gemini the astrological sign(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Gemini the astrological sign(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Gemini the astrological sign",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3658,12 +3658,12 @@
         "reasoning": "CompanyName(Google, Gemini)\nPeriod(Gemini, MayJune)\nThus, Google → Gemini and MayJune → Gemini"
     },
     {
-        "foldername": "Aquarius is opposite to Leo(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Aquarius is opposite to Leo(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Aquarius is opposite to Leo",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3681,12 +3681,12 @@
         "reasoning": "Symbol(WaterBearer, Aquarius) and Opposite(Aquarius, Leo)\nPeriod(Leo, JulyAugust)\nThus, WaterBearer → Aquarius → Leo → JulyAugust"
     },
     {
-        "foldername": "Libra is opposite to Aries(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Libra is opposite to Aries(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Libra is opposite to Aries",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3704,12 +3704,12 @@
         "reasoning": "Symbol(Scales, Libra) and Opposite(Libra, Aries)\nPeriod(Aries, MarApr)\nThus, Scales → Libra → Aries → MarApr"
     },
     {
-        "foldername": "Scorpio is opposite to Taurus(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Scorpio is opposite to Taurus(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Scorpio is opposite to Taurus",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3727,12 +3727,12 @@
         "reasoning": "Symbol(Scorpion, Scorpio) and Opposite(Scorpio, Taurus)\nPeriod(Taurus, AprMay)\nThus, Scorpion → Scorpio → Taurus → AprMay"
     },
     {
-        "foldername": "Pisces is opposite to Virgo(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Pisces is opposite to Virgo(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Pisces is opposite to Virgo",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3750,12 +3750,12 @@
         "reasoning": "Symbol(TwoFish, Pisces) and Opposite(Pisces, Virgo)\nPeriod(Virgo, AugSep)\nThus, TwoFish → Pisces → Virgo → AugSep"
     },
     {
-        "foldername": "Orion(invisible, myth, relation, Latine culture, English)",
+        "foldername": "Orion(invisible, myth, relation, Non-English European, English)",
         "relation": "Orion",
         "visibility": "invisible",
         "domain": "myth",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3773,12 +3773,12 @@
         "reasoning": "Occupation(Orion, Hunter)\nKilledBy(Orion, Scorpion)\nThus, Hunter → Orion → Scorpion"
     },
     {
-        "foldername": "Sagittarius is opposite to Gemini(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Sagittarius is opposite to Gemini(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Sagittarius is opposite to Gemini",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3796,12 +3796,12 @@
         "reasoning": "Symbol(HalfHumanHalfHorse, Sagittarius) and Opposite(Sagittarius, Gemini)\nPeriod(Gemini, MayJun)\nThus, HalfHumanHalfHorse → Sagittarius → Gemini → MayJun"
     },
     {
-        "foldername": "Gemini is opposite to Sagittarius(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Gemini is opposite to Sagittarius(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Gemini is opposite to Sagittarius",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3819,12 +3819,12 @@
         "reasoning": "Symbol(Twins, Gemini) and Opposite(Gemini, Sagittarius)\nPeriod(Sagittarius, NovDec)\nThus, Twins → Gemini → Sagittarius → NovDec"
     },
     {
-        "foldername": "Aries is opposite to Libra(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "Aries is opposite to Libra(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "Aries is opposite to Libra",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3842,12 +3842,12 @@
         "reasoning": "Symbol(Ram, Aries) and Opposite(Aries, Libra)\nPeriod(Libra, SepOct)\nThus, Ram → Aries → Libra → SepOct"
     },
     {
-        "foldername": "Taurus is opposite to Scorpio(invisible, myth, relation, Latine culture, English)",
+        "foldername": "Taurus is opposite to Scorpio(invisible, myth, relation, Non-English European, English)",
         "relation": "Taurus is opposite to Scorpio",
         "visibility": "invisible",
         "domain": "myth",
         "type": "relation",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
@@ -3865,12 +3865,12 @@
         "reasoning": "Symbol(Bull, Taurus) and Opposite(Taurus, Scorpio)\nPeriod(Scorpio, OctNov)\nThus, Bull → Taurus → Scorpio → OctNov"
     },
     {
-        "foldername": "10th zodiac(invisible, myth, mutual elements, Latine culture, English)",
+        "foldername": "10th zodiac(invisible, myth, mutual elements, Non-English European, English)",
         "relation": "10th zodiac",
         "visibility": "invisible",
         "domain": "myth",
         "type": "mutual elements",
-        "culture": "Latine culture",
+        "culture": "Non-English European",
         "language": "English",
         "images": [
             {
