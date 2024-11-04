@@ -1,11 +1,11 @@
 [
     {
-        "foldername": "십 년이면 강산이 변한다(invisible, time, mutual elements, East Asia culture, Korean)",
+        "foldername": "십 년이면 강산이 변한다(invisible, time, mutual elements, East Asia, Korean)",
         "relation": "십 년이면 강산이 변한다",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -23,12 +23,12 @@
         "reasoning": "Contrast(Hanok, ModernSkyscrapers) and Illustrate(Change, Urbanization)\nRepresent(SeasonalFlowers, NaturalChange) and Show(PassageOfTime, KoreanCountryside)\nThus, Hanok + ModernSkyscrapers → ChangeOverTime and SeasonalFlowers + KoreanCountryside → ChangeOverTime."
     },
     {
-        "foldername": "돌도 굴러가면 박힌다(invisible, time, mutual elements, East Asia culture, Korean)",
+        "foldername": "돌도 굴러가면 박힌다(invisible, time, mutual elements, East Asia, Korean)",
         "relation": "돌도 굴러가면 박힌다",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -46,12 +46,12 @@
         "reasoning": "Motion(Boulder, Hill) and FindPlace(Boulder) → Perseverance\nAct(PlantSeed, Ground) and Nurture(Growth) → Perseverance\nThus, Boulder → Perseverance and PlantSeed → Perseverance"
     },
     {
-        "foldername": "서두르면 탈 난다(invisible, time, mutual elements, East Asia culture, Korean)",
+        "foldername": "서두르면 탈 난다(invisible, time, mutual elements, East Asia, Korean)",
         "relation": "서두르면 탈 난다",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -69,12 +69,12 @@
         "reasoning": "Shows(StressfulRushing, Haste) and LeadsTo(Haste, Mistakes)\nIllustrates(BrokenVase, ConsequencesOfHaste)\nThus, StressfulRushing → Haste and BrokenVase → ConsequencesOfHaste → Haste"
     },
     {
-        "foldername": "시간은 금이다(invisible, time, metaphor, East Asia culture, Korean)",
+        "foldername": "시간은 금이다(invisible, time, metaphor, East Asia, Korean)",
         "relation": "시간은 금이다",
         "visibility": "invisible",
         "domain": "time",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -92,12 +92,12 @@
         "reasoning": "Value(Time, Gold) and Fleeting(Time, Hourglass)\nRepresent(Wealth, GoldCoins) and Importance(Time, ValuableResource)\nThus, Time → Gold → Time is Money and GoldCoins → Wealth → Time is Money"
     },
     {
-        "foldername": "시간이 지나면 알게 된다(invisible, time, mutual elements, East Asia culture, Korean)",
+        "foldername": "시간이 지나면 알게 된다(invisible, time, mutual elements, East Asia, Korean)",
         "relation": "시간이 지나면 알게 된다",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -115,12 +115,12 @@
         "reasoning": "Knowledge(Person, Book) and Understanding(Person, Book) → Wisdom\nReflect(SelfAwareness, Person) and Indicate(Wisdom, SelfAwareness)\nThus, Person + Book → Wisdom and Person + Mirror → Wisdom"
     },
     {
-        "foldername": "歳月人を待たず(invisible, time, mutual elements, East Asia culture, Japanese)",
+        "foldername": "歳月人を待たず(invisible, time, mutual elements, East Asia, Japanese)",
         "relation": "歳月人を待たず",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -138,12 +138,12 @@
         "reasoning": "Flow(River, Time) and Symbolize(River, EphemeralNature)\nMechanism(Clock, Time) and Display(Clock, RapidMovement)\nThus, River → Time and Clock → Time"
     },
     {
-        "foldername": "三日坊主(invisible, time, mutual elements, East Asia culture, Japanese)",
+        "foldername": "三日坊主(invisible, time, mutual elements, East Asia, Japanese)",
         "relation": "三日坊主",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -161,12 +161,12 @@
         "reasoning": "MarkedDays(Calendar, 3) and Represents(3Days, 三日坊主)\nHalfEaten(Donut, Disappointment) and Represents(HabitFailure, 三日坊主)\nThus, Calendar → 三日坊主 and Donut → 三日坊主 → Disappointment"
     },
     {
-        "foldername": "一期一会(invisible, time, mutual elements, East Asia culture, Japanese)",
+        "foldername": "一期一会(invisible, time, mutual elements, East Asia, Japanese)",
         "relation": "一期一会",
         "visibility": "invisible",
         "domain": "time",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -184,12 +184,12 @@
         "reasoning": "Connection(Host, Guest) and Share(Moment, Connection) → OnceInALifetime\nBlooming(CherryBlossomTree, FullBloom) and Represents(Impermanence, CherryBlossomTree) → OnceInALifetime\nThus, Host + Guest → OnceInALifetime and CherryBlossomTree → OnceInALifetime"
     },
     {
-        "foldername": "구슬이 서 말이라도 꿰어야 보배다(invisible, business, relation, East Asia culture, Korean)",
+        "foldername": "구슬이 서 말이라도 꿰어야 보배다(invisible, business, relation, East Asia, Korean)",
         "relation": "구슬이 서 말이라도 꿰어야 보배다",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -207,12 +207,12 @@
         "reasoning": "Be(StringOfPearls, Valuable)\nOccurs(NeedleAndThread, Stringing)\nThus, StringOfPearls → Valuable and NeedleAndThread → StringOfPearls"
     },
     {
-        "foldername": "윗물이 맑아야 아랫물이 맑다(invisible, business, relation, East Asia culture, Korean)",
+        "foldername": "윗물이 맑아야 아랫물이 맑다(invisible, business, relation, East Asia, Korean)",
         "relation": "윗물이 맑아야 아랫물이 맑다",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -230,12 +230,12 @@
         "reasoning": "ClearSource(ClearMountainStream, FishInMurkyWater)\nBe(FishInMurkyWater, MurkyWater)\nThus, ClearMountainStream → FishInMurkyWater and FishInMurkyWater → ClearMountainStream"
     },
     {
-        "foldername": "등잔 밑이 어둡다(invisible, business, relation, East Asia culture, Korean)",
+        "foldername": "등잔 밑이 어둡다(invisible, business, relation, East Asia, Korean)",
         "relation": "등잔 밑이 어둡다",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -253,12 +253,12 @@
         "reasoning": "LightSource(Lamp, DarkCorner)\nBe(DarkCorner, Darkness)\nThus, Lamp → DarkCorner and DarkCorner → Lamp"
     },
     {
-        "foldername": "물에 빠진 사람은 물을 건너라(invisible, business, relation, East Asia culture, Korean)",
+        "foldername": "물에 빠진 사람은 물을 건너라(invisible, business, relation, East Asia, Korean)",
         "relation": "물에 빠진 사람은 물을 건너라",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Korean",
         "images": [
             {
@@ -276,12 +276,12 @@
         "reasoning": "Struggle(PersonInWater) and Overcome(PersonCrossingRiver)\nThus, PersonInWater → PersonCrossingRiver"
     },
     {
-        "foldername": "縁は大事(invisible, business, mutual elements, East Asia culture, Japanese)",
+        "foldername": "縁は大事(invisible, business, mutual elements, East Asia, Japanese)",
         "relation": "縁は大事",
         "visibility": "invisible",
         "domain": "business",
         "type": "mutual elements",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -299,12 +299,12 @@
         "reasoning": "Symbolizes(HandsHeart, EmotionalBond) and Represents(HandsHeart, 縁)\nCelebrates(TeaCeremony, Relationships) and Emphasizes(TeaCeremony, 縁)\nThus, HandsHeart → 縁 and TeaCeremony → 縁"
     },
     {
-        "foldername": "Kintsugi(invisible, business, metaphor, East Asia culture, Japanese)",
+        "foldername": "Kintsugi(invisible, business, metaphor, East Asia, Japanese)",
         "relation": "Kintsugi",
         "visibility": "invisible",
         "domain": "business",
         "type": "metaphor",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -322,12 +322,12 @@
         "reasoning": "Symbolizes(BrokenBowl, Imperfection) and Represents(BrokenBowl, Kintsugi)\nRepairs(GoldLacquer, BrokenCeramics) and Beautifies(GoldLacquer, Imperfections)\nThus, BrokenBowl → Kintsugi and GoldLacquer → Kintsugi"
     },
     {
-        "foldername": "Kaizen(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Kaizen(invisible, business, relation, East Asia, Japanese)",
         "relation": "Kaizen",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -345,12 +345,12 @@
         "reasoning": "Illustrates(ContinuousImprovement, Kaizen)\nDiscuss(Strategies, TeamMeeting) and Implement(Changes, TeamMeeting)\nThus, ContinuousImprovement → Kaizen and TeamMeeting → Kaizen"
     },
     {
-        "foldername": "Kanban(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Kanban(invisible, business, relation, East Asia, Japanese)",
         "relation": "Kanban",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -368,12 +368,12 @@
         "reasoning": "Visualizes(Tasks, KanbanBoard)\nControls(Inventory, KanbanCards) and Schedules(Production, KanbanCards)\nThus, Tasks → KanbanBoard and KanbanCards → Kanban"
     },
     {
-        "foldername": "Karōshi(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Karōshi(invisible, business, relation, East Asia, Japanese)",
         "relation": "Karōshi",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -391,12 +391,12 @@
         "reasoning": "LeadsTo(HealthIssues, Overwork) and Causes(Burnout, Overwork)\nSymbolizes(Toll, Graveyard) and Represents(Consequences, Karōshi)\nThus, Overwork → Karōshi and Graveyard → Karōshi"
     },
     {
-        "foldername": "Lean Manufacturing(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Lean Manufacturing(invisible, business, relation, East Asia, Japanese)",
         "relation": "Lean Manufacturing",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -414,12 +414,12 @@
         "reasoning": "Minimizes(Waste, LeanManufacturing) and Optimizes(Processes, LeanManufacturing)\nImproves(Efficiency, LeanManufacturing) and Collaborates(ProcessImprovements, KaizenEvent)\nThus, Waste → LeanManufacturing and KaizenEvent → LeanManufacturing"
     },
     {
-        "foldername": "Muda(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Muda(invisible, business, relation, East Asia, Japanese)",
         "relation": "Muda",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -437,12 +437,12 @@
         "reasoning": "Represents(Inefficiencies, WastedResources) and Costs(Unnecessary, WastedResources)\nEliminates(Waste, LeanManufacturing) and Optimizes(Processes, LeanManufacturing)\nThus, WastedResources → Muda and LeanManufacturing → Muda"
     },
     {
-        "foldername": "Nemawashi(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Nemawashi(invisible, business, relation, East Asia, Japanese)",
         "relation": "Nemawashi",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -460,12 +460,12 @@
         "reasoning": "EngagesIn(Discussion, Nemawashi) and Makes(Decisions, Nemawashi)\nEmphasizes(Collaboration, ConsensusBuilding) and Agreement(TeamMembers, ConsensusBuilding)\nThus, Discussion → Nemawashi and ConsensusBuilding → Nemawashi"
     },
     {
-        "foldername": "Poka-Yoke(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Poka-Yoke(invisible, business, relation, East Asia, Japanese)",
         "relation": "Poka-Yoke",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -483,12 +483,12 @@
         "reasoning": "Prevents(Mistakes, ErrorProofingDevice) and Identifies(Defects, QualityControlInspection)\nThus, ErrorProofingDevice → Poka-Yoke and QualityControlInspection → Poka-Yoke"
     },
     {
-        "foldername": "Seiri(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Seiri(invisible, business, relation, East Asia, Japanese)",
         "relation": "Seiri",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -506,12 +506,12 @@
         "reasoning": "Sorts(Items, Sorting) and Organizes(Categories, Sorting)\nEliminates(Clutter, Seiri) and Improves(Efficiency, Seiri)\nThus, Sorting → Seiri and Seiri → WorkplaceOrganization"
     },
     {
-        "foldername": "Seiton(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Seiton(invisible, business, relation, East Asia, Japanese)",
         "relation": "Seiton",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -529,12 +529,12 @@
         "reasoning": "Maintains(Order, OrganizedWorkplace) and Ensures(Accessibility, OrganizedWorkplace)\nImproves(Productivity, Seiton) and Streamlines(Processes, Seiton)\nThus, OrganizedWorkplace → Seiton and Seiton → EfficientWorkflow"
     },
     {
-        "foldername": "Seiso(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Seiso(invisible, business, relation, East Asia, Japanese)",
         "relation": "Seiso",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -552,12 +552,12 @@
         "reasoning": "Maintains(Cleanliness, CleaningTools) and Promotes(Hygiene, CleaningTools)\nEmphasizes(Cleanliness, Seiso) and Ensures(Safety, Seiso)\nThus, CleaningTools → Seiso and Seiso → SanitizedWorkArea"
     },
     {
-        "foldername": "Seiketsu(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Seiketsu(invisible, business, relation, East Asia, Japanese)",
         "relation": "Seiketsu",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -575,12 +575,12 @@
         "reasoning": "Establishes(Uniformity, StandardizedProcedures) and Ensures(Reliability, StandardizedProcedures)\nEnsures(Quality, Seiketsu) and Adheres(Processes, Seiketsu)\nThus, StandardizedProcedures → Seiketsu and Seiketsu → QualityControlInspection"
     },
     {
-        "foldername": "Shitsuke(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Shitsuke(invisible, business, relation, East Asia, Japanese)",
         "relation": "Shitsuke",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -598,12 +598,12 @@
         "reasoning": "Develops(Skills, EmployeeTraining) and Ensures(Compliance, EmployeeTraining)\nMaintains(Standards, Shitsuke) and Ensures(Improvement, Shitsuke)\nThus, EmployeeTraining → Shitsuke and Shitsuke → ContinuousImprovement"
     },
     {
-        "foldername": "Six Sigma(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Six Sigma(invisible, business, relation, East Asia, Japanese)",
         "relation": "Six Sigma",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -621,12 +621,12 @@
         "reasoning": "Improves(Processes, SixSigma) and Controls(Quality, SixSigma)\nAnalyzes(Data, StatisticalAnalysis) and Optimizes(Performance, StatisticalAnalysis)\nThus, SixSigma → StatisticalAnalysis and StatisticalAnalysis → SixSigma"
     },
     {
-        "foldername": "Takt Time(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Takt Time(invisible, business, relation, East Asia, Japanese)",
         "relation": "Takt Time",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -644,12 +644,12 @@
         "reasoning": "Be(ProductionCycle, TaktTime)\nMeasures(Stopwatch, TaktTime)\nThus, ProductionCycle → TaktTime and Stopwatch → TaktTime"
     },
     {
-        "foldername": "Value Stream Mapping(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Value Stream Mapping(invisible, business, relation, East Asia, Japanese)",
         "relation": "Value Stream Mapping",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
@@ -667,12 +667,12 @@
         "reasoning": "Visualizes(Flow, ValueStreamMap) and Identifies(Inefficiencies, ValueStreamMap)\nImproves(Processes, ProcessImprovement) and Enhances(ValueDelivery, ProcessImprovement)\nThus, ValueStreamMap → ProcessImprovement and ProcessImprovement → ValueStreamMap"
     },
     {
-        "foldername": "Yokoten(invisible, business, relation, East Asia culture, Japanese)",
+        "foldername": "Yokoten(invisible, business, relation, East Asia, Japanese)",
         "relation": "Yokoten",
         "visibility": "invisible",
         "domain": "business",
         "type": "relation",
-        "culture": "East Asia culture",
+        "culture": "East Asia",
         "language": "Japanese",
         "images": [
             {
